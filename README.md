@@ -15,4 +15,4 @@ Implemented at the [Texas A&M University](https://www.tamu.edu) by:
 
 [Click to see sample of resulting topography and mass](https://github.com/jeremytammik/DataToBimCountoursAndBuildings/blob/master/img/datatobim_contour_and_mass.png)
 
-![Image](https://github.com/jeremytammik/DataToBimCountoursAndBuildings/blob/master/img/datatobim_contour_and_mass.png)
+->![Image](https://github.com/jeremytammik/DataToBimCountoursAndBuildings/blob/master/img/datatobim_contour_and_mass.png)<-
