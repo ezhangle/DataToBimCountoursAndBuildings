@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>DataToBim</Text>
+    <Description>Create topography, building outlines and solid conceptual mass extrusions from text file input data</Description>
+    <Assembly>DataToBim.dll</Assembly>
+    <FullClassName>DataToBim.MainClass</FullClassName>
+    <ClientId>c370b745-48df-4f91-aefb-c22acb085582</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
