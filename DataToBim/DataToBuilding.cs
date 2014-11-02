@@ -111,9 +111,10 @@ namespace DataToBim
             Family family = null;
             this.document.LoadFamily( path, out family );
             FamilySymbol symbol = null;
-            foreach( FamilySymbol s in family.Symbols )
+            //foreach( FamilySymbol s in family.Symbols ) // 2014
+            foreach( ElementId id in family.GetFamilySymbolIds() ) // 2015
             {
-              symbol = s;
+              symbol = document.GetElement( id ) as FamilySymbol;
               break;
             }
             symbols.Add( symbol );
