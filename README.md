@@ -1,7 +1,7 @@
 DataToBimCountoursAndBuildings
 ==============================
 
-Create topography, building outlines and solid conceptual mass extrusions from text file input data.
+Revit add-in that creates topography, building outlines and solid conceptual mass extrusions from text file input data.
 
 ![Image](https://github.com/jeremytammik/DataToBimCountoursAndBuildings/blob/master/img/datatobim_contour_and_mass.png)
 
